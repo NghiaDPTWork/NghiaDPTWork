@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&width=550&lines=Hello%2C+I'm+Nghia+DPT+%E2%9C%A8;A+Passionate+Software+Developer;From+Ho+Chi+Minh+City%2C+Vietnam" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&width=550&lines=Hello%2C+I'm+Nghia+DPT+%E2%9C%A8;A+Passion+Software+Developer;From+Ho+Chi+Minh+City%2C+Vietnam" alt="Typing SVG">
   </a>
 </div>
 
@@ -12,16 +12,18 @@
 
 ## 📊 My GitHub Stats
 
-<table align="center" style="border: none; width: auto;">
+<table align="center" style="border: none; width: 100%;">
   <tr align="center">
     <td style="padding: 10px;">
       <a href="https://github.com/NghiaDPTWork">
         <img src="https://github-readme-stats.vercel.app/api?username=NghiaDPTWork&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="NghiaDPTWork's Stats"/>
       </a>
     </td>
-    <td style="padding: 10px;">
+  </tr>
+  <tr align="center">
+    <td colspan="2" style="padding: 10px;">
       <a href="https://github.com/NghiaDPTWork">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NghiaDPTWork&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="NghiaDPTWork's Top Languages"/>
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=NghiaDPTWork&theme=tokyonight&hide_border=true" alt="NghiaDPTWork's Streak"/>
       </a>
     </td>
   </tr>
