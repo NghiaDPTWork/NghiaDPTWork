@@ -12,14 +12,25 @@
 
 ## 📊 My GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/NghiaDPTWork">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NghiaDPTWork&theme=tokyonight&hide_border=true&show_icons=true&icon_color=00BFFF&rank_icon=github" alt="NghiaDPTWork's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/NghiaDPTWork">
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NghiaDPTWork&theme=tokyonight&hide_border=true" alt="NghiaDPTWork's Streak"/>
-  </a>
-</div>
+<table align="center" style="border: none; width: auto;">
+  <tr align="center">
+    <td style="padding: 8px;">
+      <a href="https://github.com/NghiaDPTWork">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NghiaDPTWork&theme=tokyonight&hide_border=true&show_icons=true&icon_color=00BFFF&rank_icon=github" alt="NghiaDPTWork's GitHub Stats"/>
+      </a>
+    </td>
+    <td style="padding: 8px;">
+      <a href="https://github.com/NghiaDPTWork">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NghiaDPTWork&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="NghiaDPTWork's Top Languages"/>
+      </a>
+    </td>
+    <td style="padding: 8px;">
+      <a href="https://github.com/NghiaDPTWork">
+         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NghiaDPTWork&theme=tokyonight&hide_border=true" alt="NghiaDPTWork's Streak"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,11 +47,10 @@
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,java,cpp,css,html,tailwind,sass,mysql,ant,git,vscode,idea,figma,postman" />
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=javascript,java,cpp,css,html,tailwind,sass,mysql,ant,git,vscode,idea,figma,postman&perline=7&theme=dark&bg=242424" />
   </a>
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
