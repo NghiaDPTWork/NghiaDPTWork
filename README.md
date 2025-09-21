@@ -12,7 +12,7 @@
 
 ## 📊 My GitHub Stats
 
-<table align="center" style="border: none; width: 100%;">
+<table align="center" style="border: none; width: auto;">
   <tr align="center">
     <td style="padding: 10px;">
       <a href="https://github.com/NghiaDPTWork">
@@ -22,13 +22,6 @@
     <td style="padding: 10px;">
       <a href="https://github.com/NghiaDPTWork">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NghiaDPTWork&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="NghiaDPTWork's Top Languages"/>
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="2" style="padding: 10px;">
-      <a href="https://github.com/NghiaDPTWork">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=NghiaDPTWork&theme=tokyonight&hide_border=true" alt="NghiaDPTWork's Streak"/>
       </a>
     </td>
   </tr>
