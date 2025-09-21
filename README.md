@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="[https://git.io/typing-svg](https://github.com/NghiaDPTWork)">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&width=550&lines=Hello%2C+I'm+Nghia+DPT+%E2%9C%A8;A+Passion+Software+Develope;From+Ho+Chi+Minh+City%2C+Vietnam" alt="Typing SVG">
   </a>
 </div>
@@ -48,8 +48,8 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,cpp,css,html,tailwind,sass)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,vscode,idea,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,css,html,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,vscode,idea,figma)](https://skillicons.dev)
 
 </div>
 
