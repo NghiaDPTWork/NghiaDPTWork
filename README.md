@@ -46,11 +46,13 @@
 
 ## 💻 Tech Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=javascript,java,cpp,css,html,tailwind,sass,mysql,ant,git,vscode,idea,figma,postman&perline=7&theme=dark&bg=242424" />
-  </a>
-</p>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,java,cpp,css,html,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,vscode,idea,figma,postman)](https://skillicons.dev)
+
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
