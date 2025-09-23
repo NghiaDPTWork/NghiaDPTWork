@@ -24,11 +24,6 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NghiaDPTWork&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="NghiaDPTWork's Top Languages"/>
       </a>
     </td>
-    <td style="padding: 8px;">
-      <a href="https://github.com/NghiaDPTWork">
-         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NghiaDPTWork&theme=tokyonight&hide_border=true" alt="NghiaDPTWork's Streak"/>
-      </a>
-    </td>
   </tr>
 </table>
 
