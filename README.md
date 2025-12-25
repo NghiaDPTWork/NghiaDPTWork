@@ -50,22 +50,3 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-    <img src="https://github-trophies.vercel.app/?username=NghiaDPTWork&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 👁️ Profile Views
-[![](https://visitcount.itsvg.in/api?id=NghiaDPTWork&icon=7&color=0)](https://visitcount.itsvg.in)
-
-</div>
