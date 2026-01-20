@@ -39,14 +39,3 @@
 
 ---
 
-## 💻 Tech Stack & Tools
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,java,css,html,tailwind,sass)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,git)](https://skillicons.dev)
-
-</div>
-
----
-
