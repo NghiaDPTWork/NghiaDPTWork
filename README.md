@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </p>
 
-  <blockquote><em>"I spend more time reading code than writing it"</em></blockquote>
-
+  <blockquote><em>"I spend more time structuring systems than writing code."</em></blockquote>
+  
 </div>
 
 ---
@@ -22,7 +22,9 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-<img height="200" src="https://github-readme-stats-one-zeta.vercel.app/api?username=NghiaDPTWork&theme=radical&hide_border=false&show_icons=true&icon_color=00BFFF&rank_icon=github" alt="GitHub Stats" /><img height="200" src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=NghiaDPTWork&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=NghiaDPTWork&theme=radical&hide_border=false" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=NghiaDPTWork&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
